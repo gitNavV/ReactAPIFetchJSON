@@ -9,3 +9,8 @@ Steps to run :
 4. Run ```npm start``` to start the ```localhost:3000``` instance.
 
 Working Sample :
+## JSON Input
+!(https://github.com/gitNavV/ReactAPIFetchJSON/blob/master/InputAsJSON.png)
+
+## API Output
+!(https://github.com/gitNavV/ReactAPIFetchJSON/blob/master/OutputAPI.png)
