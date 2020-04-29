@@ -10,7 +10,7 @@ Steps to run :
 
 Working Sample :
 ## JSON Input
-!(https://github.com/gitNavV/ReactAPIFetchJSON/blob/master/InputAsJSON.png)
+![](https://github.com/gitNavV/ReactAPIFetchJSON/blob/master/InputAsJSON.png)
 
 ## API Output
-!(https://github.com/gitNavV/ReactAPIFetchJSON/blob/master/OutputAPI.png)
+![](https://github.com/gitNavV/ReactAPIFetchJSON/blob/master/OutputAPI.png)
